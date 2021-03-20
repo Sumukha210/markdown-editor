@@ -6,6 +6,10 @@
 /.pnp
 .pnp.js
 
+# dot env files
+/client/.env
+/server/.env
+
 # testing
 /coverage
 
