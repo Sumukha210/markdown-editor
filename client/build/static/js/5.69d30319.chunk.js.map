@@ -1,1 +1,0 @@
-{"version":3,"sources":["components/Collections/index.jsx"],"names":["Collections"],"mappings":"oHAIeA,UAJK,WAClB,OAAO","file":"static/js/5.69d30319.chunk.js","sourcesContent":["const Collections = () => {\r\n  return <div>collections</div>;\r\n};\r\n\r\nexport default Collections;\r\n"],"sourceRoot":""}
