@@ -1,0 +1,2 @@
+(this.webpackJsonpclient=this.webpackJsonpclient||[]).push([[6],{163:function(t,e,i){"use strict";i.r(e);var n,c,a=i(3),r=(i(1),i(4)),h=i(26),s=i(2);e.default=function(){return Object(s.jsx)(h.a,{children:Object(s.jsx)(p,{children:Object(s.jsx)(l,{src:"/md.pdf",type:"application/pdf",title:"title",scrolling:"auto"})})})};var p=r.b.div(n||(n=Object(a.a)(["\n  width: 100%;\n  height: 88vh;\n  margin-top: 1rem;\n"]))),l=r.b.iframe(c||(c=Object(a.a)(["\n  width: 100%;\n  height: 100%;\n"])))}}]);
+//# sourceMappingURL=6.fd86748e.chunk.js.map
